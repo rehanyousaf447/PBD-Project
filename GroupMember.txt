@@ -1,5 +1,7 @@
 Project Name:Document Clustring
 
-Group Membors:
+Group Members:
             Name:Rehan Yousaf
             Reg#:L1F17BSCS0098
+            Name:Haroon Ahmed
+            Reg#:L1F17BSCS0455
