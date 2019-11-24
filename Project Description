@@ -1,0 +1,13 @@
+Project Description:
+  In this project we will be solving a common machine learning prolem i-e text classification. We will be doing this on a public
+  BBC articles dataset where we will classifying different documents into five categories i-e politics, tech, entertainment, sports
+  and business.
+  
+Purpose:
+  The main thing we want to achieve in this project is to classify different articles into different catergories based on the
+  most occuring keywords in them.
+  
+Approach:
+  We will be Python as our programming language for this project. The libraries we will use are Numpy, Pandas, scikit-learn,
+  matplotlib. The machine learning algorithm most suitable for text classification is K-means clustering so we will be using
+  that also.
